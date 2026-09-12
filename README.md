@@ -71,13 +71,13 @@ On the road, Plan&Go balances everyone’s budget, pace, and interests into a fl
 ### 2.2 Ideation Boards
 
 #### Mindmap 1 – Initial Concept
-![Mindmap 1 - Initial Concept](./assets/mindmap1.png)
+![Mindmap 1 - Initial Concept](./assets/mindmap1.jpeg)
 
 #### Mindmap 2 – Idea Development
-![Mindmap 2 - Idea Development](./assets/mindmap2.png)
+![Mindmap 2 - Idea Development](./assets/mindmap2.jpeg)
 
 #### Mindmap 3 – Refined Concept After Mentor Consultation
-![Mindmap 3 - Refined Concept](./assets/mindmap3.png)
+![Mindmap 3 - Refined Concept](./assets/mindmap3.jpeg)
 
 ### 2.3 Mentor Consultation
 
