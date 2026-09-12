@@ -1,13 +1,13 @@
 # Plan&Go
 
-> **By Team TungTungSahur**  
-> **Problem Statement:** Travel Planner  
-> **Team Members:** Lee Xhi Rou, Bernice Tan Jiawen, Kam Xin Le, Yap En Yu  
+> **By Team TungTungSahur**[cite: 3]  
+> **Problem Statement:** Travel Planner[cite: 3]  
+> **Team Members:** Lee Xhi Rou, Bernice Tan Jiawen, Kam Xin Le, Yap En Yu[cite: 3]  
 > 
 > 🔗 **Quick Links:**
-> - 🎥 **Video Presentation:** [Watch Unlisted YouTube Video]([Unlisted Youtube Link])
-> - 📊 **Presentation Slides:** [View Slides]([Public Link])
-> - 🌐 **Live Prototype:** [View Prototype]([ Public Link ])
+> - 🎥 **Video Presentation:** [Watch Unlisted YouTube Video]([Unlisted Youtube Link])[cite: 3]
+> - 📊 **Presentation Slides:** [View Slides]([Public Link])[cite: 3]
+> - 🌐 **Live Prototype:** [https://plan-and-go-v1.vercel.app/](https://plan-and-go-v1.vercel.app/)[cite: 1]
 
 ---
 
@@ -89,7 +89,7 @@ On the road, Plan&Go balances everyone’s budget, pace, and interests into a fl
 
 ## 3. Design & Prototype
 
-> 🌐 **Interactive Prototype URL:** [View Prototype]([ Public Link ])
+> 🌐 **Interactive Prototype URL:** [https://plan-and-go-v1.vercel.app/](https://plan-and-go-v1.vercel.app/)[cite: 1]
 
 ### Figure 1: Preferences
 ![Figure 1: Preferences](./assets/fig1.png)  
