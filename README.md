@@ -5,8 +5,8 @@
 > **Team Members:** Lee Xhi Rou, Bernice Tan Jiawen, Kam Xin Le, Yap En Yu  
 > 
 > 🔗 **Quick Links:**
-> - 🎥 **Video Presentation:** [Watch Unlisted YouTube Video]([Unlisted Youtube Link])
-> - 📊 **Presentation Slides:** [View Slides]([Public Link])
+> - 🎥 **Video Presentation:** [Watch YouTube Video](https://youtu.be/qV3PVSJo4_s?si=7MT2MTBKdhG4BDX-)
+> - 📊 **Presentation Slides:** [View Canva Slides](https://canva.link/3l10yxih6sps8wp)
 > - 🌐 **Live Prototype:** [https://plan-and-go-v1.vercel.app/](https://plan-and-go-v1.vercel.app/)
 
 ---
@@ -177,5 +177,5 @@ Compared with existing travel-planning applications, **Plan&Go** differentiates 
 | Week | Focus | Key Tasks |
 | :---: | :--- | :--- |
 | **Week 1** | **Backend & Core Functions** | - Set up FastAPI backend<br>- Connect Supabase PostgreSQL & authentication<br>- Connect frontend and backend<br>- Implement user profiles, trip creation and itinerary data structure<br>- Implement basic AI itinerary generation |
-| **Week 2** | **AI & API Integration** | - Integrate Google Maps & Places API<br>- Integrate OpenWeather API<br>- Implement dynamic itinerary updates based on weather/location<br>- Implement shared wallet & transaction tracking<br>- Implement receipt OCR & bill splitting |
+| **Week 2** | **AI & API Integration** | - Integrate Google Maps & Places API<br>- Integrate OpenWeather API<br>- Implement dynamic itinerary updates based on weather/location<br>- Implement shared wallet & transaction tracking<br>- Implement receipt OCR & bill splitting<br>-Integrate ExchangeRate API |
 | **Week 3** | **Recap, Integration & Development** | - Implement daily check-ins & photo uploads<br>- Implement AI-generated travel score & recap<br>- Complete frontend-backend integration<br>- Error handling & accuracy testing<br>- Deploy frontend/backend<br>- Final testing, bug fixing & demo preparation |
